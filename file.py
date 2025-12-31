@@ -91,5 +91,5 @@ if __name__ == "__main__":
 
         result = app.invoke({"user_input": user_input})
         print("\nBot:", result["response"])
-       
+        print("-" * 50)
 
